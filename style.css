@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    align-items: center;
+    justify-content: center;
+}
+form {
+   margin: 50px;
+    border: 0.5px solid rgb(223, 217, 217);
+    border-radius: 5px;
+ padding-left: 30%;
+ height: 100%;
+    
+}
+input {
+    border-radius: 8px solid  rgb(223, 217, 217) ;
+    width: 500px;
+    margin-bottom: 15px;
+}
+.tieude {
+   margin-left: 130px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.get {
+    margin-left: 110px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.tw {
+    text-align: center;
+    background-color: rgb(165, 208, 244);
+    width: 500px;
+    margin-bottom: 15px;
+}
+.fb {
+    text-align: center;
+    background-color: rgb(55, 126, 248);
+    width: 500px;
+    margin-bottom: 15px;
+}
+.or {
+    margin-left: 250px;
+    margin-bottom: 15px;
+}
+.fullname {
+    margin-bottom: 15px;
+}
+#bieutuong {
+    position: absolute;
+    left:30.5%;
+    margin-top: 8px;
+}
+input {
+    padding-left: 25px;
+    height: 30px;
+}
+#khungfb {
+    height: 30px;
+    border: 0.5px solid rgb(223, 217, 217) ;
+    border-radius: 5px;
+}
+.create {
+    width: 500px;
+    height: 30px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.login {
+    margin-left: 200px;
+}
+.lo {
+    border: 0px solid white;
+    background-color: white;
+    color: rgb(148, 148, 235);
+}
